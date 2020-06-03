@@ -20,7 +20,7 @@
 * Síðan er verkefnum skilað með því að velja **"Git Commit"** og **"Git push"**  í viðkomandi verkefnamöppur.
 * [Allt um GIT má lesa hér](https://vefhonnun.github.io/verkstjorn/index.html)
 * Aðeins er hægt að skoða vefsíður staðbundið (local) þegar unnið er í verkefnageymslum
-* Nemendur geta verið með eigið vefsvæði á github.io fyrir hópverkefni eða til að birta sitt efni á internetinu en það er **mjög mikilvægt að nemendur vinni verkefnin sín í verkefnageymslu til að sýna fram á eigið vinnuframlag**. 
+* Nemendur geta verið með eigið vefsvæði á github.io fyrir hópverkefni eða til að birta sitt efni á internetinu en það er **mjög mikilvægt að nemendur vinni verkefnin sín í verkefnageymslu áfangans til að sýna fram á eigið vinnuframlag**. 
 
 ### Yfirferð verkefna
 
