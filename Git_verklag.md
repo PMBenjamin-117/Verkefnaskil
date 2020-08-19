@@ -8,3 +8,4 @@
   * Aðeins er hægt að skoða vefsíður í vafra (_browser_) staðbundið (_local_)  
   * Síðan er verkefnum skilað með því að velja **"Git Commit"** og **"Git push"**  í _Visual Studio Code_ forritinu eða _Git bash_
   * [Allt um GIT má lesa hér](https://vefhonnun.github.io/verkstjorn/index.html)
+  * [Uppsetning áfangageymslu](https://youtu.be/PPwpF6yTX3Y) Skjáfyrirlestur á Youtube
