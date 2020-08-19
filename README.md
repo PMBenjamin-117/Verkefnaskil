@@ -4,7 +4,7 @@
 
 * Verkefnalýsingar og fylgigögn eru í Innu/Áfangi/Verkefni
 * Í fyrsta verkefni áfangans er þátttökubeiðni (_Classroom invitation_) á áfangageymslu (_Classroom repository_)
-* **Strax** eftir að hafa opnað Github verkefnageymslu skilar nemandi tengli (_link_) að sinni geymslu í **INNU - verkefni 1 - vefslóð (URL)**. Þá getur kennari aðstoðað nemendur beint og fylgst með framvindu verkefna. 
+* **Strax** eftir að hafa opnað áfangageymsluna skilar nemandi tengli (_link_) að geymslunni í **INNU - verkefni 1 - vefslóð (URL)**. Þá getur kennari aðstoðað nemendur beint og fylgst með framvindu verkefna. 
 * Einkunn er gefin fyrir verkefnin að loknum skilafresti sem er tiltekinn í Innu.
 
 
