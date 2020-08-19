@@ -10,9 +10,7 @@
 
 ### Github áfangageymsla - _Classroom repository_
 
-1. Nemendur verða að vera með Github reikning (_Github user account_)
-2. Nemendur fá  þátttökubeiðni (_invite link_) í Innu/áfangi/verkefni
-3. Áfangageymslan er aðeins aðgengileg einum nemanda (_Github user_) og kennara áfangans.
+Áfangageymslan er aðeins aðgengileg einum nemanda (_Github user_) og kennara áfangans.
 
 * Í áfangageymslunni eru möppur sem á að skila verkefnum í
 * Þú getur búið til, breytt og eytt gögnum í áfangageymslunni en geymslan sjálf er eign Tækniskólans
