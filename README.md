@@ -33,7 +33,9 @@ Almennt lesefni og leiðbeiningar er birt á internetinu:
 
 * https://vefhonnun.github.io 
 
-#### Skjáfyrirlestrar (Screencast) eru í Innu/Áfangi/Efni
+#### Skjáfyrirlestrar (Youtube) 
+
+* [Uppsetning áfangageymslu](https://youtu.be/PPwpF6yTX3Y)
 
 <hr>
 
