@@ -14,7 +14,7 @@
 
 * Í áfangageymslunni eru möppur sem á að skila verkefnum í
 * Þú getur búið til, breytt og eytt gögnum í áfangageymslunni en geymslan sjálf er eign Tækniskólans
-* Nemendur geta hlaðið upp verkefnum (_upload files_) beint í verkefnamöppurnar en það er skynsamlegast að nota þær lausnir sem GIT og Github bjóða upp á. _Farið verður í verkferlið strax í fyrsta verkefni_
+* Nemendur geta hlaðið upp verkefnum (_upload files_) beint í verkefnamöppurnar en það er skynsamlegast að nota þær lausnir sem GIT og Github bjóða upp á. [_Farið verður í verkferlið strax í fyrsta verkefni_](Git_verklag.md)
 * Það er mikilvægt að nemendur vinni verkefnin sín í áfangageymslunni **til að sýna fram á eigið vinnuframlag**. 
 
 ### Yfirferð verkefna
