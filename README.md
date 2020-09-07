@@ -12,6 +12,21 @@
   * Kennari hefur fullan aðgang að geymslunni og getur aðstoðað þig beint í kóðanum ef þörf er á því. 
 * Einkunn er gefin fyrir verkefnin í Innu að loknum skilafresti sem er tiltekinn í þar.
 
+### Yfirlit
+
+```
+(Desktop)/VEF1VGA Staðvært umhverfi (local environment)
+   |___	áfangageymslan (git)
+
+Github.com/VEF1VGA
+   |___ Áfangageymsla (Classroom Assignments)
+   
+	Nemandi er í beinu samstarfi við kennara
+	Kennari fer eingöngu yfir verkefni sem skilað er í áfangageymsluna
+	
+Inna - Skila vefslóð (URL) að áfangageymslu í Verkefni 1.
+
+```
 
 ### Github áfangageymsla - _Classroom repository_
 
