@@ -71,4 +71,5 @@ Almennt lesefni og leiðbeiningar er birt á internetinu:
 
 Vefþróun er kennd í 4 áföngum á tölvubraut. Í fyrsta áfanga [VEFÞ1VG05AU](https://vefgrunnur.github.io/) er farið í grunnatriði vefsíðuhönnunar, í öðrum áfanga [VEFÞVH205BU](https://vefhonnun.github.io/) er farið í samsett skipulag vefs í vefþróunarumhverfi. Í þriðja áfanga VEF2VF05CU eru grunnatriði vefforritunar kynnt. Í fjórða áfanga VEF2VÞ05DU læra nemendur uppsetningu gagnvirkrar vefþjónustu (client/server).  Hægt er að skoða <a href="https://tskoli.github.io"> áfangayfirlit tölvubrautar hér</a> <small>(_Best er að skoða yfirlitið á tölvuskjá_)</small>.
 
+*** in in in ***
 
